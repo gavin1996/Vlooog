@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme_Splash_Login" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pale</item>
+        <item name="colorPrimaryDark">@color/status_bar</item>
+        <item name="colorAccent">@color/pale</item>
+    </style>
+
+    <style name="AppTheme_Splash_Login.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme_Splash_Login.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme_Dialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pale</item>
+        <item name="colorPrimaryDark">@color/status_bar</item>
+        <item name="colorAccent">@color/pale</item>
+    </style>
+
+    <style name="AppTheme_RatingBar" parent="Base.Widget.AppCompat.RatingBar.Small">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/french_beige1</item>
+        <item name="colorPrimaryDark">@color/manatee</item>
+        <item name="colorAccent">@color/pale</item>
+    </style>
+
+</resources>
